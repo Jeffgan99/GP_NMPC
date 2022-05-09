@@ -15,11 +15,11 @@ def gt():
     Cr0 = 0
     Cr2 = 0
 
-    max_acc = 10.  # max acceleration [m/s^2]
-    min_acc = -10.  # max deceleration [m/s^2]
-    max_steer = 0.5  # max steering angle [rad]
-    min_steer = -0.5  # min steering angle [rad]
-    max_steer_vel = 5.  # max steering velocity [rad/s]
+    max_acc = 10.  
+    min_acc = -10.  
+    max_steer = 0.5  
+    min_steer = -0.5  
+    max_steer_vel = 5.  
 
 
     max_inputs = [max_acc, max_steer]
@@ -73,11 +73,11 @@ def errordy():
     Cr0 = 0
     Cr2 = 0
 
-    max_acc = 10.  # max acceleration [m/s^2]
-    min_acc = -10.  # max deceleration [m/s^2]
-    max_steer = 0.5  # max steering angle [rad]
-    min_steer = -0.5  # min steering angle [rad]
-    max_steer_vel = 5.  # max steering velocity [rad/s]
+    max_acc = 10.  
+    min_acc = -10.  
+    max_steer = 0.5  
+    min_steer = -0.5  
+    max_steer_vel = 5.  
 
 
     max_inputs = [max_acc, max_steer]
